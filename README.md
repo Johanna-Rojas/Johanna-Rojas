@@ -14,7 +14,7 @@ My strong background in the exact sciences, combined with my experience in resea
   <tr>
     <td><a href="https://www.linkedin.com/in/leidy-johanna-rojas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"   
  /></a></td>
-    <td style="text-align: center;"><span>Check out my profile</span></td>
+    <td style="text-align: center;"><span>Check out my profile for more details</span></td>
   </tr>
 </table>
 <table>
@@ -22,7 +22,7 @@ My strong background in the exact sciences, combined with my experience in resea
     <td><a href="mailto:johannarojasmarin@gmail.com"><img 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="75"   
  /></a></td>
-    <td style="text-align: center;"><span>Check out my profile</span></td>
+    <td style="text-align: center;"><span>Want to learn more? Get in touch!</span></td>
   </tr>
 </table>
 
