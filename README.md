@@ -1,6 +1,6 @@
 ##  **Hi there** :wave:, **I'm ...**
 
-![Logo](Images/Logo1.png)
+![Logo](Images/Logo2.png)
 
 I am a results-oriented Physics Engineer and Master of Medical Physics with a passion for data science and active learning. 
 
