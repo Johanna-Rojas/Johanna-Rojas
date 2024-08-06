@@ -9,10 +9,22 @@ My strong background in the exact sciences, combined with my experience in resea
 :chart_with_upwards_trend: Currently, I'm expanding my data science skillset through intensive courses on Platzi.
 
 ## :sound:***Contact me***
-Check out my profile: <br>
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leidy-johanna-rojas)<br>
-You can also reach me at:<br>
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johannarojasmarin@gmail.com)
+
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/leidy-johanna-rojas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"   
+ /></a></td>
+    <td style="text-align: center;"><span>Check out my profile</span></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><a href="mailto:johannarojasmarin@gmail.com"><img 
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="75"   
+ /></a></td>
+    <td style="text-align: center;"><span>Check out my profile</span></td>
+  </tr>
+</table>
 
 ## 🛠***Languages and Tools***
 <img src="Images/Matlab.png" alt="Matlab" width="135"></img>
